@@ -1,271 +1,919 @@
-Perfeito. Com o username **`fv-avv`**, eu montaria seu perfil assim. Já deixei o README pensando no que você realmente faz, sem inventar experiência e sem transformar o perfil numa árvore de badges.
+<!-- ===================================================== -->
+<!--               PERFIL GITHUB • FV-AVV                  -->
+<!--             TUDO EM UM ÚNICO README.MD                -->
+<!-- ===================================================== -->
 
-Crie um repositório público chamado exatamente **`fv-avv`** e coloque este conteúdo no `README.md`:
-
-```md
 <div align="center">
 
-# FLAVIO CAVALCANTE
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:09050F,45:4C1D95,100:9333EA&text=FLAVIO%20CAVALCANTE&fontColor=FFFFFF&fontSize=46&fontAlignY=37&desc=DESENVOLVEDOR%20DE%20SOFTWARE%20%E2%80%A2%20CI%C3%8ANCIA%20DA%20COMPUTA%C3%87%C3%83O%20%E2%80%A2%20PRODUTOS%20SAAS&descAlignY=58&descSize=15&animation=fadeIn"/>
 
-### Software Developer • Computer Science • Building SaaS Products
-
-Desenvolvendo sistemas, produtos digitais e experiências que resolvem problemas reais.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=1800&pause=500&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=55&lines=%3E+Inicializando+ambiente+FV-AVV...;%3E+Carregando+arquitetura+dos+projetos...;%3E+Conectando+interface%2C+dados+e+regras...;%3E+Transformando+ideias+em+produtos+reais...;%3E+Sistema+pronto+para+construir+%E2%96%88"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;Computer+Science+Student;Building+SaaS+Products;React+%7C+Next.js+%7C+Supabase;Turning+ideas+into+real+products)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/STATUS-ONLINE-7C3AED?style=for-the-badge&labelColor=09050F"/>
+<img src="https://img.shields.io/badge/USUÁRIO-FV--AVV-A855F7?style=for-the-badge&labelColor=09050F"/>
+<img src="https://img.shields.io/badge/MODO-CONSTRUINDO-C084FC?style=for-the-badge&labelColor=09050F"/>
+
+<br><br>
+
+### `IDEIA → PRODUTO → ARQUITETURA → CÓDIGO → DADOS → PUBLICAÇÃO`
+
+<br>
+
+> **Não quero apenas criar telas. Quero construir produtos que funcionem de verdade.**
 
 </div>
 
----
-
-## 👨‍💻 Sobre mim
-
-```ts
-const flavio = {
-  username: "fv-avv",
-  role: "Software Developer",
-  education: "Computer Science",
-  location: "Rio de Janeiro, Brazil",
-
-  focus: [
-    "SaaS",
-    "Web Applications",
-    "Product Development",
-    "Automation"
-  ],
-
-  currentlyBuilding: [
-    "Aztro",
-    "EastPlayer",
-    "Imoblink"
-  ],
-
-  philosophy: "Build useful products, not just code."
-};
-```
-
-Sou estudante de **Ciência da Computação** e desenvolvedor focado na criação de produtos digitais e aplicações web.
-
-Gosto de transformar ideias em sistemas reais, trabalhando desde a estrutura do produto e experiência do usuário até banco de dados, autenticação, APIs, regras de negócio e deploy.
-
-Atualmente desenvolvo projetos próprios voltados principalmente para **SaaS, automação, gestão e plataformas web**.
+<br>
 
 ---
 
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Front-end
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Back-end & Database
-
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Infrastructure & Tools
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-# 🚀 Projetos
+# `01 // PERFIL`
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-## 🎵 EastPlayer
+<td width="58%" valign="top">
 
-**Plataforma de rádio indoor**
+## 👨‍💻 Sobre mim
 
-Sistema multi-tenant para gerenciamento remoto de rádios indoor em empresas e estabelecimentos.
+```typescript
+const flavio = {
+  usuario: "fv-avv",
 
-### Principais recursos
+  nome: "Flavio Cavalcante",
 
-- gerenciamento de empresas e unidades
-- playlists remotas
-- programação musical
-- biblioteca de músicas e gravações
-- anúncios entre músicas
-- player individual por unidade
-- sincronização remota
-- telemetria online/offline
-- controle de usuários e permissões
+  area: "Desenvolvimento de Software",
 
-**Stack**
+  formacao: "Ciência da Computação",
 
-`React` `Supabase` `PostgreSQL` `Tailwind`
+  foco: [
+    "Produtos SaaS",
+    "Aplicações Web",
+    "Automação",
+    "Arquitetura de Sistemas",
+    "Experiência do Usuário"
+  ],
 
-</td>
+  projetos: [
+    "EastPlayer",
+    "Aztro",
+    "Imoblink"
+  ],
 
-<td width="50%" valign="top">
-
-## ✦ Aztro
-
-**Produtos digitais & SaaS**
-
-Ecossistema de produtos focados em soluções digitais, gestão e automação.
-
-Um dos produtos em desenvolvimento é o **Aztro Flow**, plataforma de gerenciamento e agendamento.
-
-### Foco
-
-- SaaS
-- gestão
-- automação
-- experiência do usuário
-- aplicações web
-
-**Stack**
-
-`Next.js` `React` `Supabase` `Vercel`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🏠 Imoblink
-
-**Plataforma para o mercado imobiliário**
-
-Produto voltado à organização e gestão de processos relacionados a imóveis e operações pós-arrematação.
-
-### Desenvolvimento
-
-- arquitetura SaaS
-- planos e assinaturas
-- painel administrativo
-- gestão de usuários
-- estrutura multi-tenant
-
-**Stack**
-
-`React` `Supabase` `PostgreSQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🧪 Building...
-
-Novos produtos e experimentos estão constantemente saindo do papel.
-
-```bash
-$ status
-
-> studying computer science
-> building SaaS products
-> improving architecture
-> shipping new features
-> learning every day
-
-█
+  objetivo: "Transformar ideias em produtos reais"
+};
 ```
 
 </td>
+
+<td width="42%" valign="top">
+
+## 🟣 Estado atual
+
+```text
+╭──────────────────────────────╮
+│                              │
+│       SISTEMA FV-AVV         │
+│                              │
+├──────────────────────────────┤
+│                              │
+│ ● PERFIL       ONLINE        │
+│ ● ESTUDOS      ATIVO         │
+│ ● CÓDIGO       ATIVO         │
+│ ● PROJETOS     ATIVO         │
+│ ● APRENDIZADO  CONTÍNUO      │
+│                              │
+├──────────────────────────────┤
+│                              │
+│ MODO                         │
+│                              │
+│ > CONSTRUINDO_               │
+│                              │
+╰──────────────────────────────╯
+```
+
+</td>
+
 </tr>
 </table>
 
+<br>
+
+Sou estudante de **Ciência da Computação** e desenvolvedor focado na criação de aplicações web, plataformas e produtos digitais.
+
+Meu interesse está em participar de toda a construção do produto:
+
+`ESTRATÉGIA`
+→ `INTERFACE`
+→ `FRONT-END`
+→ `BACK-END`
+→ `BANCO DE DADOS`
+→ `AUTENTICAÇÃO`
+→ `PERMISSÕES`
+→ `INTEGRAÇÕES`
+→ `PUBLICAÇÃO`
+
+Atualmente desenvolvo produtos próprios principalmente nas áreas de **SaaS, gestão, automação e plataformas digitais**.
+
+<br>
+
 ---
 
-# 📊 GitHub Analytics
+# `02 // NÚCLEO TECNOLÓGICO`
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fv-avv&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+### `INTERFACE E FRONT-END`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fv-avv&layout=compact&theme=github_dark&hide_border=true" />
+<br>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind&theme=dark"/>
+
+<br><br><br>
+
+### `BACK-END E DADOS`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres&theme=dark"/>
+
+<br><br><br>
+
+### `FERRAMENTAS E INFRAESTRUTURA`
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/APIs-18121F?style=for-the-badge&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/AUTENTICAÇÃO-18121F?style=for-the-badge&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/RLS-18121F?style=for-the-badge&logo=postgresql&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/MULTIEMPRESA-18121F?style=for-the-badge&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/UI%20%2F%20UX-18121F?style=for-the-badge&logoColor=C084FC"/>
 
 </div>
 
 <br>
 
-<div align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fv-avv&theme=github-compact&hide_border=true&area=true" width="95%"/>
+# `03 // ÁREAS DE CONSTRUÇÃO`
 
-</div>
+<table>
+
+<tr>
+
+<td align="center" width="25%" valign="top">
+
+### `01`
+
+# ◈
+
+## Produtos SaaS
+
+Sistemas projetados para operação real, crescimento e evolução contínua.
+
+`PRODUTO`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `02`
+
+# ⚡
+
+## Aplicações Web
+
+Interfaces conectadas a banco de dados, autenticação e regras de negócio.
+
+`DESENVOLVIMENTO`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `03`
+
+# ⟳
+
+## Automação
+
+Fluxos criados para organizar operações e reduzir tarefas manuais.
+
+`EFICIÊNCIA`
+
+</td>
+
+<td align="center" width="25%" valign="top">
+
+### `04`
+
+# ◉
+
+## Experiência
+
+Produtos que precisam funcionar bem por dentro e fazer sentido por fora.
+
+`UI / UX`
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
-# 🐍 Contributions
+# `04 // CENTRAL DE PROJETOS`
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/fv-avv/fv-avv/output/github-contribution-grid-snake-dark.svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7C3AED"/>
+
+<br>
+
+## ◈ PRODUTOS QUE ESTOU CONSTRUINDO
+
+`PROJETOS REAIS • ARQUITETURA REAL • DESENVOLVIMENTO CONTÍNUO`
+
+<br>
+
+Escolha um projeto para conhecer melhor.
+
+<br>
 
 </div>
 
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `PROJETO // 01`
+
+# 🎵 EASTPLAYER
+
+### Rádio indoor inteligente
+
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-7C3AED?style=for-the-badge&labelColor=120D18"/>
+
+</div>
+
+<br>
+
+Plataforma **multiempresa** desenvolvida para gerenciamento remoto de rádios indoor utilizadas em mercados, lojas e outros estabelecimentos.
+
+```yaml
+estrutura:
+  modelo: SaaS
+  arquitetura: multiempresa
+
+principais_recursos:
+  - gerenciamento de empresas
+  - gerenciamento de unidades
+  - playlists remotas
+  - biblioteca musical
+  - gravações
+  - anúncios
+  - programação
+  - player por unidade
+  - sincronização remota
+  - telemetria
+  - usuários e permissões
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-18121F?style=flat-square&logo=react&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Supabase-18121F?style=flat-square&logo=supabase&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PostgreSQL-18121F?style=flat-square&logo=postgresql&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Tailwind-18121F?style=flat-square&logo=tailwindcss&logoColor=C084FC"/>
+
+<br><br>
+
+<a href="https://github.com/fv-avv?tab=repositories&q=EastPlayer">
+<img src="https://img.shields.io/badge/ABRIR%20EASTPLAYER-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=120D18"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### `PROJETO // 02`
+
+# ✦ AZTRO
+
+### Ecossistema de produtos digitais
+
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-9333EA?style=for-the-badge&labelColor=120D18"/>
+
+</div>
+
+<br>
+
+Ecossistema voltado para criação de **produtos digitais e soluções SaaS** focadas em gestão, organização e automação.
+
+Entre os produtos está o **Aztro Flow**.
+
+```yaml
+ecossistema:
+  categoria: SaaS
+
+produto:
+  nome: Aztro Flow
+
+foco:
+  - agendamentos
+  - gestão
+  - produtividade
+  - automação
+  - experiência do usuário
+  - operações digitais
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Next.js-18121F?style=flat-square&logo=nextdotjs&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/React-18121F?style=flat-square&logo=react&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Supabase-18121F?style=flat-square&logo=supabase&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Vercel-18121F?style=flat-square&logo=vercel&logoColor=C084FC"/>
+
+<br><br>
+
+<a href="https://github.com/fv-avv?tab=repositories&q=Aztro">
+<img src="https://img.shields.io/badge/ABRIR%20AZTRO-9333EA?style=for-the-badge&logo=github&logoColor=white&labelColor=120D18"/>
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<table>
+
+<tr>
+
+<td width="65%" valign="top">
+
+<div align="center">
+
+### `PROJETO // 03`
+
+# 🏠 IMOBLINK
+
+### Gestão de operações imobiliárias
+
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-A855F7?style=for-the-badge&labelColor=120D18"/>
+
+</div>
+
+<br>
+
+Plataforma SaaS criada para organizar processos relacionados a **imóveis, operações e atividades pós-arrematação**.
+
+```yaml
+arquitetura:
+  modelo: SaaS
+  estrutura: multiempresa
+
+modulos:
+  - empresas
+  - usuários
+  - imóveis
+  - operações
+  - planos
+  - assinaturas
+  - painel administrativo
+  - controle de acesso
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-18121F?style=flat-square&logo=react&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Supabase-18121F?style=flat-square&logo=supabase&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/PostgreSQL-18121F?style=flat-square&logo=postgresql&logoColor=C084FC"/>
+
+<br><br>
+
+<a href="https://github.com/fv-avv?tab=repositories&q=Imoblink">
+<img src="https://img.shields.io/badge/ABRIR%20IMOBLINK-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=120D18"/>
+</a>
+
+</div>
+
+</td>
+
+<td width="35%" valign="top">
+
+<div align="center">
+
+### `LABORATÓRIO`
+
+# 🧪 FV LAB
+
+</div>
+
+```bash
+fv@dev:~$ verificar
+
+✓ interfaces
+✓ aplicações-web
+✓ banco-de-dados
+✓ autenticação
+✓ arquitetura-saas
+✓ automação
+✓ experiência
+
+fv@dev:~$ modo
+
+CONSTRUINDO_
+
+fv@dev:~$ ciclo
+
+criar
+  ↓
+testar
+  ↓
+melhorar
+  ↓
+publicar
+  ↓
+evoluir
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/fv-avv?tab=repositories">
+<img src="https://img.shields.io/badge/◈%20%20EXPLORAR%20TODOS%20OS%20REPOSITÓRIOS%20%20↗-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=09050F"/>
+</a>
+
+</div>
+
+<br>
+
 ---
 
-# 🎯 Atualmente
+# `05 // FLUXO DE CONSTRUÇÃO`
+
+<div align="center">
+
+### `COMO UMA IDEIA VIRA PRODUTO`
+
+<br>
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### `01`
+
+# 💡
+
+**IDEIA**
+
+</td>
+
+<td align="center">
+
+### `02`
+
+# ◇
+
+**PROBLEMA**
+
+</td>
+
+<td align="center">
+
+### `03`
+
+# ◈
+
+**PRODUTO**
+
+</td>
+
+<td align="center">
+
+### `04`
+
+# ✦
+
+**INTERFACE**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### `05`
+
+# ⚙️
+
+**ARQUITETURA**
+
+</td>
+
+<td align="center">
+
+### `06`
+
+# `</>`
+
+**CÓDIGO**
+
+</td>
+
+<td align="center">
+
+### `07`
+
+# 🗄️
+
+**DADOS**
+
+</td>
+
+<td align="center">
+
+### `08`
+
+# 🚀
+
+**PUBLICAÇÃO**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+### `IDEIA → ESTRUTURA → EXPERIÊNCIA → IMPLEMENTAÇÃO → PRODUTO REAL`
+
+</div>
+
+<br>
+
+---
+
+# `06 // VISÃO TÉCNICA`
+
+<table>
+
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### `01 // PRODUTO`
+
+## ◈
+
+Entender o problema antes de decidir o que será desenvolvido.
+
+**Planejamento**
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### `02 // INTERFACE`
+
+## ◉
+
+Criar hierarquia, navegação e experiência pensando no usuário.
+
+**UI / UX**
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### `03 // SISTEMA`
+
+## ⚙️
+
+Construir autenticação, permissões, regras, integrações e dados.
+
+**Arquitetura**
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### `04 // ENTREGA`
+
+## ▲
+
+Testar, publicar, acompanhar problemas e continuar evoluindo.
+
+**Produção**
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+---
+
+# `07 // PAINEL DE DESENVOLVIMENTO`
 
 ```text
-SYSTEM STATUS
-──────────────────────────────────────────────
-
-[●] Ciência da Computação
-[●] Desenvolvimento Web
-[●] Construção de produtos SaaS
-[●] Aztro
-[●] EastPlayer
-[●] Imoblink
-
-NEXT OBJECTIVES
-
-→ Evoluir arquitetura dos projetos
-→ Criar produtos cada vez mais escaláveis
-→ Aprimorar UI/UX
-→ Expandir conhecimento em desenvolvimento
-→ Transformar ideias em produtos reais
-
-──────────────────────────────────────────────
-STATUS: BUILDING
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║                   FV-AVV // CENTRAL DEV                           ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  FORMAÇÃO                                                         ║
+║                                                                    ║
+║  Ciência da Computação                             ● EM CURSO     ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  NÚCLEO DE DESENVOLVIMENTO                                        ║
+║                                                                    ║
+║  Aplicações Web                                    ● ATIVO        ║
+║  Produtos SaaS                                     ● ATIVO        ║
+║  Banco de Dados                                    ● ATIVO        ║
+║  Arquitetura                                       ● EVOLUINDO    ║
+║  UI / UX                                           ● EVOLUINDO    ║
+║  Automação                                         ● ATIVO        ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  PROJETOS                                                          ║
+║                                                                    ║
+║  EastPlayer                                        ◉ EM EVOLUÇÃO  ║
+║  Aztro                                             ◉ EM EVOLUÇÃO  ║
+║  Imoblink                                          ◉ EM EVOLUÇÃO  ║
+║                                                                    ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║                     SISTEMA ONLINE █                               ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
 ```
+
+<br>
 
 ---
 
-# 🌐 Contato
+# `08 // OBJETIVOS ATUAIS`
 
-<div align="center">
+<table>
 
-[![GitHub](https://img.shields.io/badge/GitHub-fv--avv-181717?style=for-the-badge&logo=github)](https://github.com/fv-avv)
+<tr>
 
-</div>
+<td width="50%" valign="top">
+
+### `OBJETIVO // 01`
+
+## Construir produtos completos
+
+Criar soluções que saiam da ideia inicial e cheguem até uma aplicação utilizável de verdade.
+
+```text
+IDEIA
+ ↓
+PRODUTO
+ ↓
+SISTEMA
+ ↓
+USUÁRIO
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `OBJETIVO // 02`
+
+## Evoluir arquitetura
+
+Desenvolver sistemas cada vez mais organizados, seguros, escaláveis e fáceis de manter.
+
+```text
+ORGANIZAÇÃO
+    +
+SEGURANÇA
+    +
+ESCALABILIDADE
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### `OBJETIVO // 03`
+
+## Melhorar experiências
+
+Criar interfaces visualmente fortes sem sacrificar clareza, velocidade e facilidade de uso.
+
+```text
+VISUAL
+  +
+CLAREZA
+  +
+USABILIDADE
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### `OBJETIVO // 04`
+
+## Aprender construindo
+
+Transformar conhecimento novo em funcionalidades reais dentro dos próprios projetos.
+
+```text
+APRENDER
+   ↓
+APLICAR
+   ↓
+TESTAR
+   ↓
+EVOLUIR
+```
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
+# `09 // PRINCÍPIOS DE DESENVOLVIMENTO`
+
 <div align="center">
 
-### `> Code. Build. Improve. Repeat.`
+<table>
 
-<sub>Designed & built by Flavio Cavalcante</sub>
+<tr>
+
+<td align="center" width="25%">
+
+### `01`
+
+# ENTENDER
+
+Antes do código existe um problema.
+
+`PROBLEMA → CONTEXTO`
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+
+# PLANEJAR
+
+Uma boa estrutura vem antes da implementação.
+
+`PRODUTO → ARQUITETURA`
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+
+# CONSTRUIR
+
+Planejamento precisa se transformar em software funcional.
+
+`CÓDIGO → PRODUTO`
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+
+# EVOLUIR
+
+Nenhum produto termina na primeira versão.
+
+`PUBLICAR → MELHORAR`
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
+
+<br>
+
+---
+
+# `10 // TERMINAL`
+
+```bash
+fv@github:~$ quem-sou
+
+Flavio Cavalcante
+Desenvolvedor de Software
+Estudante de Ciência da Computação
+
+fv@github:~$ foco
+
+> aplicações web
+> SaaS
+> automação
+> arquitetura
+> banco de dados
+> experiência do usuário
+
+fv@github:~$ projetos
+
+[01] EastPlayer
+[02] Aztro
+[03] Imoblink
+
+fv@github:~$ objetivo
+
+Transformar ideias em produtos digitais reais.
+
+fv@github:~$ status
+
+SISTEMA ONLINE █
 ```
 
-### Um detalhe importante
+<br>
 
-A **Snake Animation não funciona apenas colando o README**. Ela precisa de um GitHub Action para gerar o SVG automaticamente.
+---
 
-Também acho que dá para deixar esse perfil **bem mais exclusivo** criando um banner próprio para o topo, em vez de colocar um banner cyberpunk genérico. Eu faria algo como:
+# `11 // CONEXÕES`
 
-> **FLAVIO CAVALCANTE**  
-> SOFTWARE DEVELOPER  
-> `FV-AVV // BUILDING DIGITAL PRODUCTS`  
-> interface escura, azul/ciano, grid extremamente discreto, elementos de terminal e referências visuais a software/SaaS.
+<div align="center">
+
+### `CONECTAR // EXPLORAR // CONHECER`
+
+<br>
+
+<a href="https://github.com/fv-avv">
+<img src="https://img.shields.io/badge/GITHUB-FV--AVV-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=09050F"/>
+</a>
+
+<a href="https://github.com/fv-avv?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITÓRIOS-EXPLORAR-A855F7?style=for-the-badge&logo=github&logoColor=white&labelColor=09050F"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=fv-avv&style=for-the-badge&color=7C3AED&label=VISITAS+AO+PERFIL"/>
+
+<br><br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:09050F,50:4C1D95,100:9333EA&text=C%C3%93DIGO%20%E2%80%A2%20PRODUTO%20%E2%80%A2%20EVOLU%C3%87%C3%83O&fontColor=FFFFFF&fontSize=20&fontAlignY=68"/>
+
+</div>
